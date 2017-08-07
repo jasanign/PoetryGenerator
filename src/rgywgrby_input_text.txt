@@ -1,2 +1,0 @@
-red green yellow white
-green red blue yellow
